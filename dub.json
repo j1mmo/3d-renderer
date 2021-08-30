@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"James"
+	],
+	"copyright": "Copyright © 2021, James",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "renderer",
+    "dependencies": {
+    "bindbc-sdl": "~>1.0.0"
+    },
+    "versions": [
+        "SDL_Image",
+        "SDL_TTF"
+    ]
+}
